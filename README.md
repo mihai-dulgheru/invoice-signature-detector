@@ -23,7 +23,7 @@ techniques.
 
 2. **Install Poppler**:
 
-   - Download Poppler for Windows from [Poppler for Windows](http://blog.alivate.com.au/poppler-windows/).
+   - Download Poppler for Windows from [Poppler for Windows](https://github.com/oschwartz10612/poppler-windows/releases/).
    - Extract the zip file and place the `bin` directory in a known location (
      e.g., `C:\Software\poppler-24.02.0\Library\bin`).
 
